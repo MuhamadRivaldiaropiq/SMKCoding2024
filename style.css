@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+    color: aqua;
+}
+.form-data {
+    text-align: center;
+    gap: 2px;
+    display: flex;        
+    flex-direction: column; 
+}
